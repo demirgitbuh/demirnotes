@@ -68,4 +68,4 @@ demirnotes/           ← Encrypted data folder
 
 ## 📜 License
 
-MIT License (c) 2026 Demir
+MIT License (c) 2026 Demirarch
